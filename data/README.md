@@ -1,0 +1,6 @@
+README file for the DATA folder of the Mustard and Garlic Ear Infection Experiment
+
+All files with names of the format: VM###### represent raw output data from the microplate reader. The 6 numbers represent the date in a mmddyy format. The occasional appended _1 and _2 represent the first and second procedures done on the same day. Information on which conditions were run on which day is written in the Lab Notes doc. These files contain several small grids representing all wells at a given time point and a larger table where each column represents one of the wells and each row represents a time point.
+
+All other files of the format date_bacteria_concentration_treatment contain this full data table on its own. The date is in the format mmdd. The bacterial species designation is a shortened version of the full name: Hinf = H. influenzae, Spne = S. pneumoniae, and Mcat = M. catarrhalis (not used in final writeup. The concentration designation is fc for full concentration (lower concentrations were not used). The treatment designation is as follows: abx = antibiotic assay, mustard = mustard assay, garlic = old garlic assay (not used in final writeup), and full = new garlic assay. 
+
